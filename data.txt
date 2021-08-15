@@ -1,0 +1,42 @@
+Advanced English skills.
+Very strong analytical skills.
+Excellent knowledge of Computer Science fundamentals (e.g., data structures, algorithms, object-oriented programming, concurrency, etc).
+Experience or good understanding of what it takes to build scalable systems (e.g., understand performance, scalability, distributed systems, etc).
+Experience using Python to develop many types of software.
+Good grasp of web technologies in general; strong understanding of the key concepts involved in implementing web applications and REST APIs too.
+Experience working in Linux environment.
+Experience in the development of applications with Django and Flask. Any other framework is a plus.
+Good knowledge of relational databases and SQL.
+Basic knowledge of NoSQL databases and experience with any of those is good to have.
+Experience working with any cloud services provider is a plus (AWS, GCP, Azure) is a plus.
+Knowledge and understanding of microservices architecture is a nice to have.
+Advanced Python and/or C++
+Continuous Integration and Deployment systems
+Compiler technology
+Computational fluid dynamics or weather and climate modeling
+Parallel and distributed computing typical of HPC platforms.
+The position will suit someone with a keen interest in software engineering, cutting-edge image processing algorithms, statistical learning methods, and partial differential equation (PDE)-based models. Previous experience with image processing and FEM is a plus, but not required. A background in biomedicine is not required, but a willingness to learn is expected.
+General programming knowledge
+Clean code principles and software craftsmanship
+Knowledge of at least one programming language C #, C ++
+Advanced English language
+Knowledge of LINUX OS on advanced user level
+Programming in C and C++ preferably in Linux environment
+Cross platform compiling experience
+knowledge in LINUX driver programming
+MATLAB language
+Understand the end to end use case and propose the solution’s architecture
+Development of the business logic (Frontend + Backend) in lean and iterative way
+Continuous deployment of the software platform (Docker, Kubernetes) into the cloud environment
+Reflecting user feedbacks and change requests in short development cycles (sprints)
+Integrate advanced AI / ML algorithms into the platform business logic, clarifying the learning parameters and KPI’s with the data scientists
+Document the solution and share and hand over to the project partners
+Bachelor or Master of Science in Computer Science or related field
+Full-stack software development
+On Frontend experience with Angular or another web framework (e.g React)
+On Backend OOP (e.g. C#, .NET core, Python)
+Data science or machine learning related experiences (e.g., ML flow, Kubeflow, Python)
+Agile mindset
+Communication and presentation skills in English
+Communication in virtual environment (e.g. MS Teams, Webex etc.)
+Feedback culture and willingness to learn
